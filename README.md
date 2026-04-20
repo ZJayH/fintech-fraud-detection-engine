@@ -1,7 +1,7 @@
 # Fintech Risk Analytics: Real-Time Fraud Detection Engine
 
 ## Dashboard Preview
-![Risk Dashboard](dashboard_preview.png)
+[Risk Dashboard](dashboard_preview.png)
 
 ## Project Overview
 In the fast-paced Fintech sector, identifying fraudulent transactions within milliseconds is critical. This project simulates a highly scalable **Risk Control & Anti-Fraud Data Pipeline**. By analyzing a dataset of 50,000 simulated cross-border transactions, the project identifies organized fraud rings utilizing "Velocity Attacks" (rapid, high-value transfers) and visualizes the interception threshold.
